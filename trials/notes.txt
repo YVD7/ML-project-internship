@@ -1,7 +1,0 @@
-so what i know is
-
-1.we have to download data from the source
-2.we have to ingest the data into the data base
-3.Now the thing is I have to develope my own project by refrence and by my own st
-
-Progress

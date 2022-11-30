@@ -15,6 +15,9 @@ from sklearn.metrics import mean_squared_error, mean_absolute_error, r2_score
 # data read
 df = pd.read_csv("/home/yash/project/ineuron_internship_projects/ML-project-internship/Concrete_file_path/Preprocessing_Data.csv")
 
+# Droping the column Unnamed
+df.drop(df.columns[0],axis=1,inplace=True)
+
 # Data preprocessing
 # split dataset
 
