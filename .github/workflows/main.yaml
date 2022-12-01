@@ -1,5 +1,5 @@
-# Your workflow name.
-name: Deploy to heroku.
+y# Your workflow name.
+name: Deploy to netlify.
 
 # Run workflow on every push to main branch.
 on:
@@ -30,10 +30,10 @@ jobs:
           
           # Heroku API key associated with provided user's email.
           # Api Key is available under your Heroku account settings.
-          heroku_api_key: 
+          Site ID: 04eb181f-faf5-4e44-8346-310167163324
           
           # Name of the heroku application to which the build is to be sent.
-          heroku_app_name: 
+          Site name: melodic-douhua-eb8659
 
           # (Optional, default: "./")
           # Dockerfile directory.
