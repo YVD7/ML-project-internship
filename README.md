@@ -33,6 +33,6 @@ Approach:
 
 At each step in both development  and development parts, logging operation is performed which are stored in the development_logs.log and deployment_logs.log files respectively.
 
-So, now we can find the Concrete compressive strength quickly by just passing  the quanitites of the raw materials as an input into the web application 
+So, now we can find the Concrete compressive strength quickly by just passing  the quanitites of the raw materials as an input into the web application
 
-# Web Deployment:
+Deployment:
