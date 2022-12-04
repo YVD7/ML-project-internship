@@ -59,7 +59,13 @@ Demo video:
 
 Refrences:
 
-* [Testing the compressive strength of concrete](https://www.youtube.com/watch?v=t4RDdn6rOwU)
+ - [Concrete Basics: Essential Ingredients For A Concrete Mixture](https://concretesupplyco.com/concrete-basics/)
+ - [Applications of Fly ash](https://www.thespruce.com/fly-ash-applications-844761)
+ - [Blast furnace slag cement](https://theconstructor.org/concrete/blast-furnace-slag-cement/23534/)
+ - [Applications of Superplasitcizer in concrete making](https://en.wikipedia.org/wiki/Superplasticizer)
+ - [Factors that affect strength of concrete](https://gharpedia.com/blog/factors-that-affect-strength-of-concrete/)
+ - [Feature selection with sklearn and pandas](https://towardsdatascience.com/feature-selection-with-pandas-e3690ad8504b)
+ - [HTML, CSS tutorials ](https://www.w3schools.com/)
 
 Author:
 
