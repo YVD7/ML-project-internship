@@ -36,3 +36,31 @@ At each step in both development  and development parts, logging operation is pe
 So, now we can find the Concrete compressive strength quickly by just passing  the quanitites of the raw materials as an input into the web application
 
 Deployment:
+
+The project is deployed on local machine 127.0.0.1:5000/predict
+
+![1670127300145](image/README/1670127300145.png)
+
+Stack used:
+
+* Jupyter-notebook, python, vscode, html, css, matplolib, seaborn, numpy, pandas, scikit learn, statsmodels, git, gunicorn, joblib, flask, linux.
+
+High Level Design:
+
+Low Level Design:
+
+Architecture:
+
+Detail Project Report:
+
+Wireframe Document:
+
+Demo video:
+
+Refrences:
+
+* [Testing the compressive strength of concrete](https://www.youtube.com/watch?v=t4RDdn6rOwU)
+
+Author:
+
+* Yash Dawande
