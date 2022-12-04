@@ -39,7 +39,7 @@ Deployment:
 
 The project is deployed on local machine 127.0.0.1:5000/predict
 
-![1670127300145](image/README/1670127300145.png)
+![1670135370984](image/README/1670135370984.png)
 
 Stack used:
 
