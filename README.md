@@ -45,7 +45,7 @@ Stack used:
 
 * Jupyter-notebook, python, vscode, html, css, matplolib, seaborn, numpy, pandas, scikit learn, statsmodels, git, gunicorn, joblib, flask, linux.
 
-High Level Design:
+High Level Design: [High Level Design Doc link](https://drive.google.com/file/d/1_2VLEZdALfJ8n3G7d_qJri3nsAkIepC9/view)
 
 Low Level Design:
 
