@@ -49,16 +49,13 @@ High Level Design:
 
 Low Level Design:
 
-Architecture:
+Architecture: [Architecture Doc Link](https://drive.google.com/file/d/1JAUZwOezc_bwJ6weIEDpkSS5OlHBMN4E/view)
 
 Detail Project Report:
 
-Wireframe Document:
+Wireframe Document: [Wireframe Link](https://drive.google.com/drive/folders/1128h1SzTK7bXKq8aGA6jY2zDLLUgP32S)
 
-
-Demo video:
-
-[project demo video link](https://youtu.be/oWAwBGZ1fNc)
+Demo video: [project demo video link](https://youtu.be/oWAwBGZ1fNc)
 
 Refrences:
 
