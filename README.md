@@ -47,7 +47,7 @@ Stack used:
 
 High Level Design: [High Level Design Doc link](https://drive.google.com/file/d/1_2VLEZdALfJ8n3G7d_qJri3nsAkIepC9/view)
 
-Low Level Design: [Low Level Design](https://drive.google.com/file/d/12_-caSfJxXF-E93aD2h-esMWGbj1WfCk/view)
+Low Level Design: [Low Level Design Doc Link](https://drive.google.com/file/d/12_-caSfJxXF-E93aD2h-esMWGbj1WfCk/view)
 
 Architecture: [Architecture Doc Link](https://drive.google.com/file/d/1JAUZwOezc_bwJ6weIEDpkSS5OlHBMN4E/view)
 
