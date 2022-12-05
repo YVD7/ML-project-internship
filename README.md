@@ -47,11 +47,11 @@ Stack used:
 
 High Level Design: [High Level Design Doc link](https://drive.google.com/file/d/1_2VLEZdALfJ8n3G7d_qJri3nsAkIepC9/view)
 
-Low Level Design:
+Low Level Design: [Low Level Design](https://drive.google.com/file/d/1x6WcgPClWg-P2vQmr5NgAz0cavgNVTxW/view)
 
 Architecture: [Architecture Doc Link](https://drive.google.com/file/d/1JAUZwOezc_bwJ6weIEDpkSS5OlHBMN4E/view)
 
-Detail Project Report:
+Detail Project Report: 
 
 Wireframe Document: [Wireframe Link](https://drive.google.com/drive/folders/1128h1SzTK7bXKq8aGA6jY2zDLLUgP32S)
 
