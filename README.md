@@ -39,7 +39,7 @@ Deployment:
 
 The project is deployed on local machine 127.0.0.1:5000/predict
 
-![image](https://user-images.githubusercontent.com/67076012/205478472-76766f76-9186-4a1b-86b5-695e819a07dd.png)
+![image](https://user-images.githubusercontent.com/67076012/205612128-45c21213-7759-4b6f-ace1-702df4cf2b74.png)
 
 Stack used:
 
