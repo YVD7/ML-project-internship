@@ -38,12 +38,12 @@ import joblib
 import numpy as np
 import pandas as pd
 from flask import Flask, render_template, request
-# import logging
+from logger import logging
 
 """Application logging"""
 
-# logging.basicConfig(filename='deployment_logs.log', level=logging.INFO,
-#                     format='%(levelname)s:%(asctime)s:%(message)s')  # configuring logging operations
+logging.basicConfig(filename='deployment_logs.log', level=logging.INFO,
+                    format='%(levelname)s:%(asctime)s:%(message)s')  # configuring logging operations
 
 app = Flask(__name__)
 

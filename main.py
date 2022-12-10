@@ -2,12 +2,12 @@ import joblib
 import numpy as np
 import pandas as pd
 from flask import Flask, render_template, request
-# import logging
+import logging
 
 """Application logging"""
 
-# logging.basicConfig(filename='deployment_logs.log', level=logging.INFO,
-#                     format='%(levelname)s:%(asctime)s:%(message)s')  # configuring logging operations
+logging.basicConfig(filename='deployment_logs.log', level=logging.INFO,
+                    format='%(levelname)s:%(asctime)s:%(message)s')  # configuring logging operations
 
 app = Flask(__name__)
 
@@ -44,7 +44,7 @@ def predict():
         # logging operation
 #         logging.info(f"The Predicted Concrete Compressive strength is {result} MPa")
 
-#         logging.info("Prediction getting posted to the web page.")
+        logging.info("Prediction getting posted to the web page.")
         return render_template('front.html',
                                prediction_text=f"The Concrete compressive strength is {result} MPa")
 

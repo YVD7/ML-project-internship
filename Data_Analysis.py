@@ -5,7 +5,6 @@ import pandas as pd
 import matplotlib.pyplot as plt
 import seaborn as sns
 
-
 # reading source file
 df = pd.read_csv('/home/yash/project/ineuron_internship_projects/ML-project-internship/Concrete_file_path/concrete_data.csv')
 
